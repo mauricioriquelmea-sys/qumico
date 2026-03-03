@@ -7,7 +7,6 @@ st.set_page_config(page_title="Pernos Químicos | ACI 318-11", layout="wide")
 
 def main():
     st.title("🧪 Engine: Anclajes Químicos (ACI 318-11)")
-    st.markdown("### Validación según Anexo 3 - Hospital Cordillera")
     st.write("---")
 
     # --- ENTRADAS EN SIDEBAR ---
